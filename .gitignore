@@ -219,8 +219,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-   data/
-   *.npy
-   *.pkl
-   *.joblib
-   *.pt
+# Project data and artifacts
+data/
+*.npy
+*.pkl
+*.joblib
