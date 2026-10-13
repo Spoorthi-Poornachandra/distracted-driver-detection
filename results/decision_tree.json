@@ -1,0 +1,7 @@
+{
+  "model": "decision_tree",
+  "train_acc": 0.988822652757079,
+  "val_acc": 0.2189634391321816,
+  "max_depth": 25,
+  "max_features": "sqrt"
+}
