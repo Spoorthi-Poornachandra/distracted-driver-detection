@@ -1,0 +1,6 @@
+model,train_acc,val_acc
+two_layer_nn,100.0,38.87
+softmax,95.93,37.46
+linear_svm,95.25,33.69
+naive_bayes,56.06,27.56
+decision_tree,98.88,21.9
