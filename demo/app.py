@@ -47,6 +47,7 @@ demo = gr.Interface(
     description=f"Upload a driver image to classify it into 10 activities. Model: {best}",
     examples=examples,
     cache_examples=False,
+    flagging_mode="never",
 )
 
 if __name__ == "__main__":
