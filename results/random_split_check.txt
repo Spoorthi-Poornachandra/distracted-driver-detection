@@ -1,0 +1,1 @@
+Random split NN: train=1.0000 val=0.9971
