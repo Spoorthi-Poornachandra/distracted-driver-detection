@@ -86,5 +86,5 @@ separate driver-wise test set.
 ## Team
 Both members developed the code together and committed it from one
 laptop after the full pipeline and demo were working.
-- **Name 1 (SRN):** preprocessing, linear SVM, softmax, evaluation, demo code, write-up sections 1-4, slides 1-5
-- **Name 2 (SRN):** Naive Bayes, decision tree, neural networks, random-split check, validation samples, write-up sections 5-6, slides 6-10
+- **Spoorthi Poornachandra (PES1UG24AM279):** preprocessing, linear SVM, softmax, evaluation, demo code, write-up sections 1-4, slides 1-5
+- **Yashwanth Gowda T G (PES1UG25AM818):** Naive Bayes, decision tree, neural networks, random-split check, validation samples, write-up sections 5-6, slides 6-10
