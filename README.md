@@ -38,5 +38,5 @@ classes c0 to c9). Download the `train` folder and place it at:
 | Two-layer NN | | |
 
 ## Team
-- Name 1 (SRN): what they did
+- Spoorthi Poornachandra (PES1UG24AM279): what they did
 - Name 2 (SRN): what they did
