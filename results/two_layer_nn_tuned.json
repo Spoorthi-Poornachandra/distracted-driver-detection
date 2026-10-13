@@ -1,0 +1,7 @@
+{
+  "model": "two_layer_nn_tuned",
+  "train_acc": 0.9838931560243036,
+  "val_acc": 0.4059863398955404,
+  "hidden": 100,
+  "alpha": 1.0
+}

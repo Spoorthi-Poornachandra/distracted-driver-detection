@@ -1,11 +1,11 @@
 class,accuracy
-safe driving,15.96
-texting - right,25.32
-phone - right,42.12
-texting - left,30.78
-phone - left,35.22
-radio,68.63
-drinking,17.17
-reaching behind,35.62
-hair & makeup,89.25
-talking to passenger,41.74
+safe driving,11.52
+texting - right,34.6
+phone - right,35.53
+texting - left,47.2
+phone - left,33.15
+radio,57.98
+drinking,22.26
+reaching behind,33.12
+hair & makeup,82.25
+talking to passenger,62.84
